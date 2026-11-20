@@ -1,17 +1,17 @@
-Proyecto A
+# Proyecto A
 
-##objetivos
+## objetivos
 
 marca piel 
 marcar vinil
 integrar el uso de stm32
 
-##requerimientos
+## requerimientos
 -python
 -ESP32
 -STM32CUBE
 -Sello ITIZ
 
-##descripcion
+## descripcion
 
 Nuestro proyecto hace la representacion de una estampadora 

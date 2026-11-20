@@ -1,4 +1,4 @@
-hola soy rodri me gusta morian y raul
-te amo 
+hola soy rodri 
+como estas 
+how are you 
 
-raul meteme el pene 
